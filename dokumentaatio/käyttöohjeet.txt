@@ -1,0 +1,13 @@
+Pokeri on uhkapeli. Pokeripeliss‰ voit syˆtt‰‰ aluksi haluamasi summan rahaa pokerikoneeseen. Klikkaamalla "Lis‰‰ rahaa" -nappia, lis‰t‰‰n koneeseen 20 sentti‰. Saat myˆs valita panoksen klikkaamalla "Panos"-nappia - panos tarkoittaa sit‰ raham‰‰r‰‰, jonka maksat jokaisesta pelikierroksesta, ja panoksen suuruus vaikuttaa siihen, kuinka paljon rahaa voitat voittavilla k‰sill‰*. Panos voi olla 20, 40, 60 tai 80 sentti‰ tai yksi euro. Kun olet valmis aloittamaan, klikkaa "Jaa"-nappia. Saat eteesi viisi korttia. Voit valita korteista s‰‰stett‰v‰ksi "parhaat", eli jos sinulla on jo esimerkiksi kaksi samanarvoista korttia tai nelj‰ korttia samaa maata, voit lukita ne. T‰m‰n j‰lkeen "Jaa"-painiketta klikkaamalla sinulle jaetaan lukitsemattomien korttien tilalle uudet kortit. T‰m‰ on lopullinen k‰tesi, jonka kortit peli tarkistaa, ja antaa sinulle voittorahat mik‰li k‰dess‰ olevat kortit riittiv‰t johonkin voittoon. T‰m‰n j‰lkeen voit lis‰t‰ j‰lleen rahaa, muuttaa panosta ja aloittaa uuden kierroksen. Kun voitat rahaa, se tallentuu voittoihisi. Voit k‰ytt‰‰ myˆs voittojasi pelikierrosten maksamiseen.
+
+
+*Voittavien k‰sien havainnollistus:
+
+    -Kuningasv‰risuora, korkein mahdollinen v‰risuora (esimerkiksi A? K? Q? J? 10?)
+    -V‰risuora, suora sek‰ v‰ri (esimerkiksi Q? J? 10? 9? 8?)
+    -Neloset, nelj‰ samaa numeroa (esimerkiksi 6? 6? 6? 6? 9?)
+    -T‰ysk‰si ja kolmoset (esimerkiksi 8? 8? 8? K? K?)
+    -V‰ri, kaikki samaa maata (esimerkiksi K? J? 8? 4? 3?)
+    -Suora, kortit numeroj‰rjestyksess‰ (esimerkiksi 5? 4? 3? 2? A?, ‰ss‰ voi olla joko 1 tai 14)
+    -Kolmoset, kolme samaa numeroa (esimerkiksi 7? 7? 7? K? 2?)
+    -Kaksi paria (esimerkiksi A? A? 8? 8? Q?)
